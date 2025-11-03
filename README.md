@@ -23,8 +23,8 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-### NAME : G ASWINI
-### REG.NO. : 212224040037
+### NAME : Mageshwaran T.A
+### REG.NO. : 212224230146
 
 ## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
 
